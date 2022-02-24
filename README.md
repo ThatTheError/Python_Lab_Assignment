@@ -1,6 +1,6 @@
 # Python_Lab_Assignment
 
-NIST Python Lab Assignment's
+Python Lab Assignment's
 ----------------------------
 
 Hii all,
