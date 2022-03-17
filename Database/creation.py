@@ -1,6 +1,5 @@
 from logging import exception
 import mysql.connector as c
-
 conn = c.connect(host='localhost',user='root',passwd='',database='Python_Database')
 cursor = conn.cursor()
 createQuery ="""

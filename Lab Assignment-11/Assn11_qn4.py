@@ -31,7 +31,6 @@ finally:
 
 
 
-
 """
 import mysql.connector as c
 conn = c.connect(host='localhost',user='root',passwd='',database='Python_Database')
